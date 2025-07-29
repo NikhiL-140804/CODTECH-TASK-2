@@ -26,4 +26,6 @@ From a technical standpoint, I used tools such as Figma’s comment tool, share 
 
 #OUTPUT:
 
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/0cf39d32-3123-4fc4-8f06-dea31c2566ee" />
 
+LINK: https://www.figma.com/design/v62gRxdW2RQg8LLqbxZxMz/TASK-2?t=8flonOgzEBm4Vo7p-1
